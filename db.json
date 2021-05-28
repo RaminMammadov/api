@@ -1,10 +1,9 @@
 {
   "users" : [
-      {"id":1,"name":"Ramin","surname":"Mammadov","age":18},
-      {"id":2,"name":"Saleh","surname":"Quliyev","age":48},
-      {"id":3,"name":"Vaqif","surname":"Eliyev","age":24},
-      {"id":4,"name":"Elnur","surname":"Zahidov","age":35},
-      {"id":5,"name":"Samir","surname":"Veliyev","age":17},
-      {"id":6,"name":"Eyvaz","surname":"Huseynov","age":28}
+      {"id":1,"name":"Ramin","password":"RaminMammadov10"},
+      {"id":2,"name":"Yegane","password":"admin123"}
+  ],
+  "messages" : [
+    {"id":1,"message":"Hello World"}
   ]
 }
